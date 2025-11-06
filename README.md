@@ -69,11 +69,10 @@ Visit `http://localhost:3000` to complete setup.
 curl -fsSL https://ollama.com/install.sh | sh
 
 # Pull a compatible model (qwen2.5 recommended)
-ollama pull qwen2.5:latest
+ollama pull qwen3:14b
 
-# Alternative: DeepSeek R1
-ollama pull deepseek-r1:latest
-```
+# Alternative: GPT-OSS
+ollama pull gpt-oss:latest
 
 #### 3. Import the OpenHAB Tool
 
@@ -199,8 +198,8 @@ Cache TTL: 1800  # 30 minutes for more frequent updates
 
 | Model | Version | Performance | Notes |
 |-------|---------|-------------|-------|
-| qwen3 | 14B/30B | ⭐⭐⭐⭐ | Excellent reasoning, fast |
-| gpt-oss | 20B | ⭐⭐⭐⭐ | Good analysis, slower |
+| qwen3 | 14B/30B | ⭐⭐⭐⭐ | Excellent, fast |
+| gpt-oss | 20B | ⭐⭐⭐⭐ | Good, fast |
 
 ## 📊 Real-World Example
 
