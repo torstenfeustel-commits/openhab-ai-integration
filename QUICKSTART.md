@@ -96,6 +96,5 @@ curl -X GET http://your-openhab-ip:8080/rest/items
 
 ## Next Steps
 
-- Read [EXAMPLES.md](EXAMPLES.md) for use cases
 - Check [INSTALLATION.md](INSTALLATION.md) for detailed setup
 - Star the repo if it helped you! ⭐
