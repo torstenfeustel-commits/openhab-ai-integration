@@ -198,8 +198,8 @@ Cache TTL: 1800  # 30 minutes for more frequent updates
 
 | Model | Version | Performance | Notes |
 |-------|---------|-------------|-------|
-| qwen3 | 14B/30B | ⭐⭐⭐⭐ | Excellent, fast |
-| gpt-oss | 20B | ⭐⭐⭐⭐ | Good, fast |
+| qwen3 | 14B/30B | ⭐⭐⭐⭐ | Excellent, fast, Function calling: native|
+| gpt-oss | 20B | ⭐⭐⭐⭐ | Good, fast, Function calling: native|
 
 ## 📊 Real-World Example
 
