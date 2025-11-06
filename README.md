@@ -277,7 +277,6 @@ MIT License - see [LICENSE](LICENSE) file
 ## 📧 Support
 
 - **Issues**: [GitHub Issues](https://github.com/torfeu/openhab-ai-integration/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/torfeu/openhab-ai-integration/discussions)
 
 ---
 
