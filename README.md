@@ -239,7 +239,7 @@ This project was developed through collaboration between a smart home enthusiast
 ### Development Setup
 
 ```bash
-git clone https://github.com/yourusername/openhab-ai-integration.git
+git clone https://github.com/torfeu/openhab-ai-integration.git
 cd openhab-ai-integration
 ```
 
